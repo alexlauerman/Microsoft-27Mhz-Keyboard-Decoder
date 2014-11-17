@@ -5,4 +5,4 @@ This uses python and GNURadio to remotely decode keystrokes.  Additional filteri
 
 Keystrokes have been modified until I have another keyboard's data to segment out the keyboard ID's part of the signal.  Mouse data filtering/extraction has been removed since nothing was being done with the data.
 
-Talk vid with demos coming soon...
+Talk vid with demos coming soon.
