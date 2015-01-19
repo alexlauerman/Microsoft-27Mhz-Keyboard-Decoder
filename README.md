@@ -7,4 +7,4 @@ The code quality and signal processing "reliablity" are not great.  If you are a
 
 Keystrokes have been modified until I have another keyboard's data to segment out the keyboard ID's part of the signal.  Mouse data filtering/extraction has been removed since nothing was being done with the data.
 
-Talk vid with demos coming soon.
+Talk vid: https://www.youtube.com/watch?v=Jhak0hezZfg
